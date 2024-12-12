@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate IT student specializing in **Backend Engineering**, **DevOps**, and **Cloud Solutions**. I thrive on building scalable, innovative applications leveraging cutting-edge technologies like **Node.js**, **Docker**, and **AWS**. Let's connect and create something amazing together! 🚀
 
-![Profile Banner](./aman-header.png) <!-- Replace this with your custom banner image -->
+![Profile Banner](./github-header-image.png) <!-- Replace this with your custom banner image -->
 
 ## About Me
 - 🎓 **Bachelor of Engineering (IT)** at L.D. College of Engineering, CPI: 9.03
