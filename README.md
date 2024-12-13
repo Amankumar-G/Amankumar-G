@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate IT student specializing in **Back
 
 [![Nishbad Vani](https://github-readme-stats.vercel.app/api/pin/?username=Amankumar-G&repo=nishbad-vani&theme=dark)](https://github.com/Amankumar-G/nishbad-vani)
 
-[![Vision-Hoster](https://github-readme-stats.vercel.app/api/pin/?username=Amankumar-G&repo=vision-hoster&theme=dark)](https://github.com/Amankumar-G/vision-hoster)
+[![Vision-Hoster](https://github-readme-stats.vercel.app/api/pin/?username=Amankumar-G&repo=vision-hoster&theme=dark)](https://github.com/Amankumar-G/Vision)
 
 [![AGRI-AI-CONNECT](https://github-readme-stats.vercel.app/api/pin/?username=Amankumar-G&repo=agri-ai-connect&theme=dark)](https://github.com/Amankumar-G/agri-ai-connect)
 
